@@ -3,7 +3,7 @@ This repository provides implementations of several optimization algorithms for 
 
 ## Project Resources
 
-- [Project Presentation (PPTX)]("C:\Users\Akund\Downloads\Solving the Travelling Salesman Problem using Optimization techniques.pdf")
+- [Project Presentation (PPTX)]("https://github.com/ArhitaK/Solving-Travelling-Salesman-Problem-with-Optimization-Algorithms/blob/main/Solving%20the%20Travelling%20Salesman%20Problem%20using%20Optimization%20techniques.pdf")
 - [Project Paper (PDF)]("C:\Users\Akund\Downloads\TSP_using_Opti_Algos.pdf")
 
   
